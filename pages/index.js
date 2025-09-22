@@ -1,5 +1,5 @@
 function Home (){
-    return <h1>Curioso abriu é porque é gay</h1>
+    return <h1>Se chegou aqui você está devendo uma cerveja para o Guilherme Cantarellas</h1>
 }
 
 export default Home;
